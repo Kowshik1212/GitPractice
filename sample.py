@@ -6,7 +6,7 @@ def cal_squares(numbers,result):
     for idx,i in enumerate(numbers):
         result[idx] = i*i
 
-def speak():
+def speakLoud():
     print("I'm speaking")
 
 def write():
@@ -14,6 +14,7 @@ def write():
 
 def sing():
     print("I'm singing")
+
 numbers = [1,2,3]
 
 if __name__ == "__main__":
