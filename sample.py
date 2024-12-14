@@ -9,7 +9,7 @@ def cal_squares(numbers,result):
 def speakLoud():
     print("I'm speaking")
 
-def write():
+def writeFast():
     print("I'm writing")
 
 def sing():
