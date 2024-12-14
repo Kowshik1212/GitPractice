@@ -9,7 +9,7 @@ def cal_squares(numbers,result):
 def speak():
     print("I'm speaking")
 
-def write():
+def writeFast():
     print("I'm writing")
 numbers = [1,2,3]
 
