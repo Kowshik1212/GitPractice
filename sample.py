@@ -8,6 +8,9 @@ def cal_squares(numbers,result):
 
 def speak():
     print("I'm speaking")
+
+def write():
+    print("I'm writing")
 numbers = [1,2,3]
 
 if __name__ == "__main__":
