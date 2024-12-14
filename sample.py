@@ -11,6 +11,9 @@ def speak():
 
 def write():
     print("I'm writing")
+
+def sing():
+    print("I'm singing")
 numbers = [1,2,3]
 
 if __name__ == "__main__":
