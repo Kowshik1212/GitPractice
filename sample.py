@@ -12,7 +12,7 @@ def speak():
 def write():
     print("I'm writing")
 
-def sing():
+def singSweat():
     print("I'm singing")
 numbers = [1,2,3]
 
