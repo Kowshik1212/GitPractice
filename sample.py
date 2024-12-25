@@ -18,6 +18,9 @@ def singSweat():
 def hear():
     print("I'm hearing")
 
+def walk():
+    print("I'm walking")
+
 numbers = [1,2,3]
 
 if __name__ == "__main__":
