@@ -15,6 +15,9 @@ def writeFast():
 def singSweat():
     print("I'm singing")
 
+def hear():
+    print("I'm hearing")
+
 numbers = [1,2,3]
 
 if __name__ == "__main__":
